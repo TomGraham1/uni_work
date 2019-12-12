@@ -1,0 +1,3 @@
+This was a project I did while taking the course Programming, Data Analysis and Machine Learning while at Edinburgh Univeristy.
+I was testing the Hypothesis that the level of education of individuals could be deterimined by investigating 5 factors, Marriage, Unemployment, Health, Owning a House with a Mortgage and Aetheism.
+By using Machine Learning Techniques I found there to be a 62% accuracy in determining level of Education with these 5 factors.
